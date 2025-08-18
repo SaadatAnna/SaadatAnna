@@ -9,7 +9,7 @@
   
   "body": {
     "aboutMeImgUrl": "../src/components/json/aboutMe/profilePicture.png",
-    "aboutMeDescription": "Hello, my name is Anna Saadat.<br> I’m a results-driven professional with a passion for turning challenges into opportunities.<br> Over the years, I’ve built expertise in project management, business analysis, and process improvement, helping teams work smarter and achieve better results.<br> I take pride in leading diverse groups, fostering collaboration, and delivering outcomes that truly make an impact.<br> Outside of work, I dedicate time to volunteering, mentoring aspiring professionals, and exploring innovative uses of technology to create positive change.",
+    "aboutMeDescription": "Hello, I am Anna Saadat,<br>a final-year student in Electrical Engineering (Digital Systems) at Science and Research University.<br>My interests focus on artificial intelligence, machine learning, and deep learning, which I am currently exploring through a research project in AI.<br>I have also worked on the capacity optimization of a multi-story parking system, gaining valuable experience in applying theory to real-world challenges.<br>I am a motivated learner, committed to research, innovation, and continuous growth.",
     "socialMedia": [
       {
         "imgSrc": "../src/components/social/email.png",
